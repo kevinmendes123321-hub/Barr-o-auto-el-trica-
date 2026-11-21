@@ -1,0 +1,1 @@
+export const WHATSAPP='5574991200711';export const waLink=(msg:string)=>'https://wa.me/'+WHATSAPP+'?text='+encodeURIComponent(msg);
