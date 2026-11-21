@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{ink:'#030504',neon:'#39ff88',steel:'#9aa5a0'},fontFamily:{display:['"Chakra Petch"','sans-serif'],body:['Manrope','system-ui','sans-serif']}}}}
